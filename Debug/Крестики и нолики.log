@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Дмитрий\source\repos\Крестики и нолики\Source.cpp(56): warning C4715: check_step: значение возвращается не при всех путях выполнения
+C:\Users\Дмитрий\source\repos\Крестики и нолики\Source.cpp(124): warning C4715: check_draw: значение возвращается не при всех путях выполнения
+  Крестики и нолики.vcxproj -> C:\Users\Дмитрий\source\repos\Крестики и нолики\Debug\Крестики и нолики.exe
